@@ -1,1 +1,28 @@
-{}
+{
+  "version": 1,
+  "notes": [
+    {
+      "id": "eb49b9cf-23c5-4faf-af1f-406c6744df35",
+      "title": "ыуаыу",
+      "content": "вфцвфцв<div>фцв</div><div>фц</div><div>вф</div>",
+      "updatedAt": 1793129363797,
+      "createdAt": 1793122610964,
+      "deletedAt": null,
+      "pinned": false,
+      "noteType": "normal",
+      "timerStartedAt": null,
+      "order": 0
+    }
+  ],
+  "tasks": [
+    {
+      "id": "3e9498b1-9733-4b62-af29-185ba2604d62",
+      "text": "ewefwef",
+      "completed": false,
+      "order": 0,
+      "v": 2
+    }
+  ],
+  "trash": [],
+  "lastModified": 1793129369752
+}
