@@ -4,9 +4,17 @@
   "tasks": [
     {
       "id": "067df52d-edfe-475a-8cbd-e5f40dfdf4df",
-      "text": "",
+      "text": "Еженедельный список задач",
       "completed": false,
       "order": 0,
+      "v": 2,
+      "_fresh": true
+    },
+    {
+      "id": "eaf09b64-f0b2-4ab7-9aa8-d58259dd1630",
+      "text": "",
+      "completed": false,
+      "order": 1,
       "v": 2,
       "_fresh": true
     }
@@ -25,5 +33,5 @@
       "order": 0
     }
   ],
-  "lastModified": 1793132277757
+  "lastModified": 1793132291548
 }
