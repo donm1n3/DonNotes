@@ -14,7 +14,16 @@
       "order": 0
     }
   ],
-  "tasks": [],
+  "tasks": [
+    {
+      "id": "6ff19a20-2833-4a09-9404-478f08cc22ff",
+      "text": "",
+      "completed": false,
+      "order": 0,
+      "v": 2,
+      "_fresh": true
+    }
+  ],
   "trash": [],
-  "lastModified": 1793131796302
+  "lastModified": 1793131806528
 }
