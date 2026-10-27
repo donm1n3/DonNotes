@@ -12,9 +12,17 @@
     },
     {
       "id": "eaf09b64-f0b2-4ab7-9aa8-d58259dd1630",
-      "text": "",
+      "text": "WarCraft III",
       "completed": false,
       "order": 1,
+      "v": 2,
+      "_fresh": true
+    },
+    {
+      "id": "8c45c5b7-24e2-479d-a2a1-2d8280317e3b",
+      "text": "",
+      "completed": false,
+      "order": 2,
       "v": 2,
       "_fresh": true
     }
@@ -33,5 +41,5 @@
       "order": 0
     }
   ],
-  "lastModified": 1793132291548
+  "lastModified": 1793132297504
 }
