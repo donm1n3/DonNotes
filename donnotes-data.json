@@ -1,20 +1,20 @@
 {
   "version": 1,
-  "notes": [
+  "notes": [],
+  "tasks": [],
+  "trash": [
     {
       "id": "eb49b9cf-23c5-4faf-af1f-406c6744df35",
       "title": "Вроде вышло",
       "content": "Урааа",
       "updatedAt": 1793132272636,
       "createdAt": 1793122610964,
-      "deletedAt": null,
+      "deletedAt": 1793132274543,
       "pinned": false,
       "noteType": "normal",
       "timerStartedAt": null,
       "order": 0
     }
   ],
-  "tasks": [],
-  "trash": [],
-  "lastModified": 1793132272637
+  "lastModified": 1793132274544
 }
