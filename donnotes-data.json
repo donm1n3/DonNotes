@@ -5,7 +5,7 @@
       "id": "eb49b9cf-23c5-4faf-af1f-406c6744df35",
       "title": "Вроде вышло",
       "content": "Урааа",
-      "updatedAt": 1793131796302,
+      "updatedAt": 1793131824091,
       "createdAt": 1793122610964,
       "deletedAt": null,
       "pinned": false,
@@ -14,16 +14,7 @@
       "order": 0
     }
   ],
-  "tasks": [
-    {
-      "id": "6ff19a20-2833-4a09-9404-478f08cc22ff",
-      "text": "",
-      "completed": false,
-      "order": 0,
-      "v": 2,
-      "_fresh": true
-    }
-  ],
+  "tasks": [],
   "trash": [],
-  "lastModified": 1793131806528
+  "lastModified": 1793131824091
 }
