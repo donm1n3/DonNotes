@@ -3,9 +3,9 @@
   "notes": [
     {
       "id": "eb49b9cf-23c5-4faf-af1f-406c6744df35",
-      "title": "ыуаыу",
-      "content": "вфцвфцв<div>фцв</div><div>фц</div><div>вф</div>",
-      "updatedAt": 1793129363797,
+      "title": "Вроде вышло",
+      "content": "Урааа",
+      "updatedAt": 1793130528671,
       "createdAt": 1793122610964,
       "deletedAt": null,
       "pinned": false,
@@ -14,16 +14,7 @@
       "order": 0
     }
   ],
-  "tasks": [
-    {
-      "id": "f1026a1c-8302-4ab7-9504-29b28396f55d",
-      "text": "",
-      "completed": false,
-      "order": 0,
-      "v": 2,
-      "_fresh": true
-    }
-  ],
+  "tasks": [],
   "trash": [],
-  "lastModified": 1793130478551
+  "lastModified": 1793130528671
 }
