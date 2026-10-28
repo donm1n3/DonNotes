@@ -25,7 +25,7 @@
     {
       "id": "eaf09b64-f0b2-4ab7-9aa8-d58259dd1630",
       "text": "WarCraft III",
-      "completed": false,
+      "completed": true,
       "order": 1,
       "v": 2
     },
@@ -65,5 +65,5 @@
       "order": 0
     }
   ],
-  "lastModified": 1793193995201
+  "lastModified": 1793193998046
 }
