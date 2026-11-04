@@ -4,8 +4,8 @@
     {
       "id": "5f4dea92-ce5d-4e6b-93b2-29fa55740bc2",
       "title": "Фильмы",
-      "content": "<ul><li>Кошмар на улице вязов</li><li>Очень страшное кино</li><li>проверка</li></ul>",
-      "updatedAt": 1793789049207,
+      "content": "<ul><li>Кошмар на улице вязов</li><li>Очень страшное кино</li></ul>",
+      "updatedAt": 1793789097620,
       "createdAt": 1793168493097,
       "deletedAt": null,
       "pinned": false,
@@ -65,5 +65,5 @@
       "order": 0
     }
   ],
-  "lastModified": 1793789049207
+  "lastModified": 1793789097621
 }
