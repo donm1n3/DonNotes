@@ -51,19 +51,6 @@
       "v": 2
     }
   ],
-  "trash": [
-    {
-      "id": "eb49b9cf-23c5-4faf-af1f-406c6744df35",
-      "title": "Вроде вышло",
-      "content": "Урааа",
-      "updatedAt": 1793132272636,
-      "createdAt": 1793122610964,
-      "deletedAt": 1793132274543,
-      "pinned": false,
-      "noteType": "normal",
-      "timerStartedAt": null,
-      "order": 0
-    }
-  ],
-  "lastModified": 1793789097621
+  "trash": [],
+  "lastModified": 1794083922030
 }
