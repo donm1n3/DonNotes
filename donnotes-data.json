@@ -26,14 +26,14 @@
       "id": "eaf09b64-f0b2-4ab7-9aa8-d58259dd1630",
       "text": "WarCraft III",
       "completed": true,
-      "order": 1,
+      "order": 0,
       "v": 2
     },
     {
       "id": "8c45c5b7-24e2-479d-a2a1-2d8280317e3b",
       "text": "Локация Angry Birds",
       "completed": true,
-      "order": 2,
+      "order": 1,
       "v": 2
     },
     {
@@ -52,5 +52,5 @@
     }
   ],
   "trash": [],
-  "lastModified": 1794083943533
+  "lastModified": 1794083949411
 }
