@@ -11,6 +11,18 @@
       "pinned": false,
       "noteType": "normal",
       "timerStartedAt": null,
+      "order": 1
+    },
+    {
+      "id": "b757d6c2-db72-458d-89f3-8ee22b39f3e3",
+      "title": "Исправить",
+      "content": "Выход из положения сохраняет все равно заметку<div>Задачи на недели, месяцы</div>",
+      "updatedAt": 1794252042989,
+      "createdAt": 1794252042989,
+      "deletedAt": null,
+      "pinned": false,
+      "noteType": "normal",
+      "timerStartedAt": null,
       "order": 0
     }
   ],
@@ -52,5 +64,5 @@
     }
   ],
   "trash": [],
-  "lastModified": 1794252004339
+  "lastModified": 1794252042991
 }
