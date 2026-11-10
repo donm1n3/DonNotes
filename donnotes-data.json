@@ -63,19 +63,6 @@
       "v": 2
     }
   ],
-  "trash": [
-    {
-      "id": "736e215d-f774-47b0-bd3c-f5e26df49999",
-      "title": "ш",
-      "content": "",
-      "updatedAt": 1794344463528,
-      "createdAt": 1794344463528,
-      "deletedAt": 1794344466385,
-      "pinned": false,
-      "noteType": "normal",
-      "timerStartedAt": null,
-      "order": 0
-    }
-  ],
-  "lastModified": 1794344466386
+  "trash": [],
+  "lastModified": 1794344470316
 }
