@@ -11,7 +11,7 @@
       "pinned": false,
       "noteType": "normal",
       "timerStartedAt": null,
-      "order": 2
+      "order": 1
     },
     {
       "id": "b757d6c2-db72-458d-89f3-8ee22b39f3e3",
@@ -19,18 +19,6 @@
       "content": "<ul><li>Выход из положения сохраняет все равно заметку</li><li>Задачи на недели, месяцы</li><li>При перемещении задачи, остальные сдвигаются для того, чтобы предоставить место</li></ul>",
       "updatedAt": 1794344456724,
       "createdAt": 1794252042989,
-      "deletedAt": null,
-      "pinned": false,
-      "noteType": "normal",
-      "timerStartedAt": null,
-      "order": 1
-    },
-    {
-      "id": "736e215d-f774-47b0-bd3c-f5e26df49999",
-      "title": "ш",
-      "content": "",
-      "updatedAt": 1794344463528,
-      "createdAt": 1794344463528,
       "deletedAt": null,
       "pinned": false,
       "noteType": "normal",
@@ -75,6 +63,19 @@
       "v": 2
     }
   ],
-  "trash": [],
-  "lastModified": 1794344463529
+  "trash": [
+    {
+      "id": "736e215d-f774-47b0-bd3c-f5e26df49999",
+      "title": "ш",
+      "content": "",
+      "updatedAt": 1794344463528,
+      "createdAt": 1794344463528,
+      "deletedAt": 1794344466385,
+      "pinned": false,
+      "noteType": "normal",
+      "timerStartedAt": null,
+      "order": 0
+    }
+  ],
+  "lastModified": 1794344466386
 }
