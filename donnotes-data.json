@@ -63,19 +63,6 @@
       "v": 2
     }
   ],
-  "trash": [
-    {
-      "id": "a65e8b25-77ba-46fc-8653-8073b09a7ec5",
-      "title": "планка",
-      "content": "",
-      "updatedAt": 1794344378593,
-      "createdAt": 1794344378593,
-      "deletedAt": 1794344380907,
-      "pinned": false,
-      "noteType": "normal",
-      "timerStartedAt": null,
-      "order": 0
-    }
-  ],
-  "lastModified": 1794344380908
+  "trash": [],
+  "lastModified": 1794344436936
 }
